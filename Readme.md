@@ -14,5 +14,8 @@ connected_udp_client.py
 connected_udp_server.py
 multicast_udp_client.py
 multicast_udp_server.py
+
+
 2. Answer to this question: "What happened when you send message from client in Multicast UDP when server is not available?"
-	The clients were able to communicate to each other without the server, because in Multicast there is no server/client differentiation at the protocol level.
+
+The clients were able to communicate to each other without the server, because in Multicast there is no server/client differentiation at the protocol level.
